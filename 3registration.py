@@ -16,7 +16,7 @@ sr_no=StringVar()
 con_no=StringVar()
 add=StringVar()
 pin=StringVar()
-
+ 
 def hk():
 
     mycon=sqltor.connect(host="localhost",user="root",passwd="root",database="project")
