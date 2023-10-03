@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter.ttk import *
 from subprocess import call
 import  mysql.connector as sqltor
-from tkinter import messagebox
+from tkinter import messagebox 
 
 os=Tk()
 os.title("REGISTRATION FORM-The Banyan Tree School")
